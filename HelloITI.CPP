@@ -2,7 +2,8 @@ class HelloITI
 {
     Public void PrintHelloWorld()
     {
-        cout<<"Hello ITI"
-        cout<< "Hello git"
+        cout << "Hello ITI";
+        cout << "Hello git";
+        cout << "";
     }
-}
+};
