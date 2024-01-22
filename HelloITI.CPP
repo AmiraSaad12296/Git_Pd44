@@ -6,6 +6,7 @@ class HelloITI
         cout << "Hello git";
         cout << "omnia";
         cin << "omnia";
+        cout<<"1234"
         
 
 
