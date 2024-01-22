@@ -5,6 +5,10 @@ class HelloITI
         cout << "Hello ITI";
         cout << "Hello git";
         cout << "omnia";
+        cin << "omnia";
+        
+
+
 
     }
 };
