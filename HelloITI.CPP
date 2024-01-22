@@ -4,6 +4,7 @@ class HelloITI
     {
         cout << "Hello ITI";
         cout << "Hello git";
-        cout << "";
+        cout << "omnia";
+
     }
 };
